@@ -1,2 +1,2 @@
 # movilidadvsproductividadLATAM
-Proyecto de como se ve afectada la productividad económica por la movilidad en ciudades de LATAM
+Proyecto sobre como se ve afectada la productividad económica (PIB) por la movilidad en ciudades de LATAM
